@@ -6,10 +6,10 @@
 <br/>
 <p align="center">
 
-  <h2>XitizAi (v1.1)</h2>
-   <a href="https://github.com/dracoonhavoc/xitizai">
+  <h2>YourAi (v1.1)</h2>
+   <!-- <a href="https://github.com/dracoonhavoc/xitiz">
     <img align="center" src="./xitizai/logo.png" alt="Logo" width="160" height="160">
-  </a>
+  </a> -->
   <p align="center">
     <br />
     <a><strong>Any One Can Detect. Easy to use with self-contained Computer Vision capabilities »</strong></a>
