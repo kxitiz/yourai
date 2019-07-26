@@ -1,0 +1,4 @@
+node_modules/
+weights/
+.vscode
+**.DS_Store
