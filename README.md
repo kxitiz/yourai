@@ -7,9 +7,9 @@
 <p align="center">
 
   <h2>YourAi (v1.1)</h2>
-   <!-- <a href="https://github.com/dracoonhavoc/xitiz">
-    <img align="center" src="./xitizai/logo.png" alt="Logo" width="160" height="160">
-  </a> -->
+   <a href="https://github.com/dracoonhavoc/yourai/tree/master">
+    <img align="center" src="./yourai/logo.png" alt="Logo" width="160" height="160">
+  </a>
   <p align="center">
     <br />
     <a><strong>Any One Can Detect. Easy to use with self-contained Computer Vision capabilities »</strong></a>
@@ -24,11 +24,11 @@ Download Yolo model for [Keras] which have .h5 extension and place in root direc
 
 Run **main.py** file in root directory it will be up and running. Initially inbuilt camera is used but also support UDP stream like RTSP protocal. OPENCV wrapper is used for UDP streming.
 
-If Error is Encountered **[ClickHere](https://github.com/dracoonhavoc/xitizai/blob/master/Errors-with-Solution.md)**
+If Error is Encountered **[ClickHere](https://github.com/dracoonhavoc/yourai/blob/master/Errors-with-Solution.md)**
 
 ### Dependencies
 
-To use XitizAi in your application developments, you must have installed the following dependencies before running program :
+To use YourAi in your application developments, you must have installed the following dependencies before running program :
 * **Python 3.5.1** (or later versions)
 * **OpenCV**
 * **Tensorflow 1.4** (or later versions)
@@ -48,7 +48,7 @@ To use XitizAi in your application developments, you must have installed the fol
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dracoonhavoc/xitizai/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/dracoonhavoc/yourai/blob/master/LICENSE) file for details
 
 ## In Future
 
