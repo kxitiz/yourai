@@ -8,7 +8,7 @@
 
   <h2>YourAi (v1.1)</h2>
    <a href="https://github.com/dracoonhavoc/yourai/tree/master">
-    <img align="center" src="./yourai/logo.png" alt="Logo" width="160" height="160">
+    <img align="center" src="./yourai/logo.png" alt="Logo" width="360" height="360">
   </a>
   <p align="center">
     <br />
