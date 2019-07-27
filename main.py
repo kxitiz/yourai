@@ -13,9 +13,9 @@ import json
 execution_path = os.getcwd()
 '''Setup Input Device'''
 protocal = None  #!'rstp' or None
-#camera = os.path.join(execution_path, 'video.mp4')
-camera = 0
-# camera = 'rtsp://admin:0pen0pen@10.10.99.12/Streaming/Channels/101?tcp'
+#camera = os.path.join(execution_path, 'video.mp4') #! For video file
+camera = 0  #!Camera
+# camera = 'rtsp://admin:0pen0pen@10.10.99.12/Streaming/Channels/101?tcp'  #! For udp protocal eg rtsp
 speed = None  #!None, fast, faster, fastest, flash
 
 # def forSecond(second_number, output_arrays, count_arrays,
@@ -27,9 +27,8 @@ speed = None  #!None, fast, faster, fastest, flash
 
 compute = Detection()
 compute.UseYOLOv3()
-compute.LinkModel(
-    os.path.join(execution_path,
-                 'yolo.h5'))  #! Change this as Model name in Root directory
+compute.LinkModel(os.path.join(
+    execution_path, 'yolo.h5'))  #! Change this as Model name in Root directory
 compute.LoadModel(speed)
 
 objects = compute.ObjectList(person=True,
