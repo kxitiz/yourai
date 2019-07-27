@@ -26,6 +26,8 @@ Run **main.py** file in root directory it will be up and running. Initially inbu
 
 If Error is Encountered **[ClickHere](https://github.com/dracoonhavoc/yourai/blob/master/Errors-with-Solution.md)**
 
+For More info click **[YourAi](https://www.allworldfeed.com/your-ai/)**
+
 ### Dependencies
 
 To use YourAi in your application developments, you must have installed the following dependencies before running program :
