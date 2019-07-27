@@ -42,7 +42,7 @@ To use YourAi in your application developments, you must have installed the foll
 * [Keras](https://keras.io/)
 * [OpenCV](https://opencv.org/)
 
-## Authors
+## Author
 
 * **Kshitiz Neupane** - *Initial work* - [DracoonHavoc](https://github.com/dracoonhavoc)
 
