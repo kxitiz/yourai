@@ -29,7 +29,7 @@ compute = Detection()
 compute.UseYOLOv3()
 compute.LinkModel(
     os.path.join(execution_path,
-                 'yolov3.h5'))  #! Change this as Model name in Root directory
+                 'yolo.h5'))  #! Change this as Model name in Root directory
 compute.LoadModel(speed)
 
 objects = compute.ObjectList(person=True,

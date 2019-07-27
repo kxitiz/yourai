@@ -29,10 +29,10 @@ If Error is Encountered **[ClickHere](https://github.com/dracoonhavoc/yourai/blo
 ### Dependencies
 
 To use YourAi in your application developments, you must have installed the following dependencies before running program :
-* **Python 3.5.1** (or later versions)
+* **Python 3.6** (or later versions)
 * **OpenCV**
-* **Tensorflow 1.4** (or later versions)
-* **Keras 2.x**
+* **Tensorflow** (or later versions)
+* **Keras**
 * YOLO Models are required **[Yolov3.h5](https://mega.nz/#!RmJgnArS!qGSVR2GvotvtJx5amQJt1f1JwT1wvogzd82xyUsmCDA)** or **[Tiny-Yolo.h5](https://mega.nz/#!d7YA0CRB!CypAkU93t7n0bjdTynGnkmahH_a6Yog1ADR6qWDCd0o)** click whichever you want.
 
 ## Built With Links
